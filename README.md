@@ -21,6 +21,7 @@
 
 ### Pipeline support (Workflow) - New!
 ![Alt text](Pics/pipeline.png?raw=true)
+(Jenkins 2.X)
 
 ### Adding build steps
 Use a pre-scm step to start a sandbox and a post-build step for stopping running sandboxes.
